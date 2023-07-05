@@ -1,9 +1,3 @@
 Git commands learnt
 
-git init
-git add 
-git commit 
-git push
-git pull
-git fork 
-git checkout
+git checkout is a command used to switch between the branches
