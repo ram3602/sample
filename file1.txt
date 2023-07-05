@@ -1,1 +1,4 @@
 Contents of file1
+
+
+Contents of file1 in another branch m1
