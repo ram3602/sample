@@ -1,6 +1,7 @@
 
 
+Contents of file2 changed for checking purpose
 
 
 
-Contents of file 2
+Contents of file 2 
